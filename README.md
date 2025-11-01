@@ -19,6 +19,10 @@ STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
 ```
+Name: JASSIR SULTHAN K
+Reg.No: 212224240060
+```
+```
 import seaborn as sns
 import matplotlib.pyplot as plt
 import pandas as pd
